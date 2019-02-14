@@ -14,7 +14,7 @@ Here are a few options compatible with [Docker CE](https://store.docker.com/sear
 2. Click _New_
 3. Enter a name "Linux Mint 19", SelectType: Linux, SelectVersion: Ubuntu
 <br>
-<img src="https://github.com/markcam1/development_guides/blob/master/media/images/ovm1.png">
+<img src="https://github.com/markcam1/Technical_Guides/blob/master/media/images/ovm1.png">
 
 ---
 1. **Memory Size**: 4096
@@ -24,7 +24,7 @@ Here are a few options compatible with [Docker CE](https://store.docker.com/sear
 5. **File location and size**: 20.00GB
 6. Once the virtual machine is setup click _Start_ on the Virtual Box menu
 <br>
-<img src="https://github.com/markcam1/development_guides/blob/master/media/images/ovm2.png">
+<img src="https://github.com/markcam1/Technical_Guides/blob/master/media/images/ovm2.png">
 
 ---
 
