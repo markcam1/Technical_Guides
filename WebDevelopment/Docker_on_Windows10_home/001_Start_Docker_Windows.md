@@ -1,4 +1,4 @@
-# 1 Docker toolbox | Windows 10 Home | install Docker toolbox
+# Docker toolbox | Windows 10 Home | install Docker toolbox
 
 <a title="dotCloud, Inc. [Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Docker_(container_engine)_logo.png"><img width="512" alt="Docker (container engine) logo" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"></a>
 

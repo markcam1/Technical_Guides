@@ -69,16 +69,105 @@ react-native init appName
 * add exports/path to your [system](https://www.dev2qa.com/how-to-set-android-sdk-path-in-windows-and-mac/)
 * On Windows: enable _Windows Hypervisor Platform_
 
+
+
+## React Native / Redux / eslint application
+
+1. install Redux:
+``` 
+npm install --save redux react-redux
+```
+
+2. Install ESLint (see below)
+
+3. Directory structure:
+```
+$ mkdir src
+$ cd src
+$ touch App.js
+
+4. config app
+```
+
+```
+
+5. Start react native
+
+* start emulator - see below or go to Android SDK
+
+
+* go to root directory
+
+* start packager
+```
+react-native start --reset-cache
+```
+
+* start react-native
+```
+react-native run-android
+```
+
+## Firebase
+
+
+
+
+### ESLint
+
+1. Add ESLint to VSCode (or Text Editor) Extensions
+2. Install [Rally Coding](https://www.rallycoding.com/) eslint configuration in your project 
+```
+npm install --save-dev eslint-config-rallycoding
+```
+3. In the root directory of project add the following file: **.eslintrc**
+4. In **.eslintrc** file add the following code:
+```
+{
+    "extends": "rallycoding"
+}
+```
+
+---
+
+
+
+## Emulator
 In order to run emulator from terminal you need to -
 
+* Windows:
+cd /c/Users/blacl/AppData/Local/Android/Sdk/emulator
+
+* Linux:
 cd /usr/local/android-sdk-linux/tools/
+
+```
 ./emulator -list-avds
+```
 
-This will show all emulators. To choose your emulator -
+* This will show all emulators. To choose your emulator -
 
+* Run the emulator:
+```
 ./emulator -avd <avd_name_shown>
+```
+
+* Emulator Logs:
+```
+adb logcat
+```
+
+
+* Now start the React Native 
 
 ```
 react-native run-android
 ```
 
+## Debugger
+
+**Emulator**
+Android: Control M
+Iphone: Control E
+
+_error “Cannot set property 'volume' of null”_: disable Chrome browser extensions

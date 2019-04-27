@@ -1,5 +1,5 @@
 
-# 2 Docker toolbox | Windows 10 Home | installation and mounting volume
+# Docker toolbox | Windows 10 Home | installation and mounting volume
 
 ## Configure the tools 
 
