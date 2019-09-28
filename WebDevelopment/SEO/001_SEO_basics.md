@@ -2,7 +2,16 @@
 
 
 ## First step:
-* register page with Google, Bing, Baidu
+1. register page with Google, Bing, Baidu
+
+https://ahrefs.com/blog/seo-checklist/
+
+https://backlinko.com/seo-checklist#basics
+
+
+https://moz.com/blog/launching-new-website-seo-checklist-whiteboard-friday
+
+
 
 
 ## Search like a client
